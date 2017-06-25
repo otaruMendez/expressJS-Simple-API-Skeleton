@@ -15,5 +15,4 @@
   
   **constants.js**: contails all the constant variables to be used across the app.
   
-  
-  
+  **responses.js**: contains all the custom responses to be used across the app.
